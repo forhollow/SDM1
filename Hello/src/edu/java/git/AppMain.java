@@ -5,9 +5,14 @@ public class AppMain {
 	public static void main(String[] args) {
 
 		System.out.println("Hello, World");
-		System.out.println("»õ·Î¿î ±â´É Ãß°¡");
+		System.out.println("Â»ÃµÂ·ÃŽÂ¿Ã® Â±Ã¢Â´Ã‰ ÃƒÃŸÂ°Â¡");
 		System.out.println("plz~");
+
 		System.out.println("Bug fix.....");
+
+
+		System.out.println("Bug fix");
+
 
 	}
 
